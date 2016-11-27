@@ -1,5 +1,7 @@
 function read_gastric_data
 
+% Read data from matlab structs
+
 % Structure of the study struct
 study = struct;
 study.name = '';
